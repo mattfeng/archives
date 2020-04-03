@@ -1,12 +1,11 @@
 # Awesome Reading: Places with high quality reading content.
 
 ## Education
-* The Chronicle (of Higher Education)
-* Universal Design for Learning
-    * https://medium.com/udl-center
+* [The Chronicle of Higher Education](https://www.chronicle.com/)
+* [Universal Design for Learning](https://medium.com/udl-center)
 
-## Blogs
-* https://jblevins.org/notes/
+## Notes
+* [Jason Blevins](https://jblevins.org/notes/)
 
 ## Statistics
-* LessWrong 2.0
+* [LessWrong](https://www.lesswrong.com/)
