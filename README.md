@@ -11,6 +11,9 @@
 ## Notes
 * [Jason Blevins](https://jblevins.org/notes/)
 
+## Economics
+* [Alex Chinco's Research Notebook](http://www.alexchinco.com/notebook/)
+
 ## Statistics
 * [LessWrong](https://www.lesswrong.com/)
 
