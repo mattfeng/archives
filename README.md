@@ -2,7 +2,8 @@
 
 ## Blogs
 * [Jessy Lin's blog](https://jessylin.com)
-* [Bits or pieces?](https://blog.gardeviance.org)
+* **Bits or pieces?** ([http](https://blog.gardeviance.org))
+* **Steve Blank.** Posts on innovation, entrepreneurship, and buisiness. ([http](https://steveblank.com/))
 
 ## Education
 * [The Chronicle of Higher Education](https://www.chronicle.com/)
@@ -17,3 +18,5 @@
 ## Statistics
 * [LessWrong](https://www.lesswrong.com/)
 
+## Computation
+* [Computational culture](http://computationalculture.net)
