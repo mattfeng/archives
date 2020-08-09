@@ -15,3 +15,6 @@
 * [GigaScience](https://gigasciencejournal.com/)
 * [Research Parasite Awards](https://researchparasite.com/)
 * [Gen3](https://gen3.org/)
+
+## Education
+* [Alan Alda, The Greatest Threat to our National Security](https://omny.fm/shows/clear-vivid-with-alan-alda/rafael-reif-on-the-greatest-threat-to-our-national)
