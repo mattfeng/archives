@@ -4,6 +4,7 @@
 * [Jessy Lin's blog](https://jessylin.com)
 * **Bits or pieces?** ([http](https://blog.gardeviance.org))
 * **Steve Blank.** Posts on innovation, entrepreneurship, and buisiness. ([http](https://steveblank.com/))
+* **Sebastian Ruder.** ([http](https://ruder.io/))
 
 ## Education
 * [The Chronicle of Higher Education](https://www.chronicle.com/)
