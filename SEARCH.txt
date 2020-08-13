@@ -1,0 +1,146 @@
+- Course 20 Minor Requirements (MIT)
+
+- IL-2 superkine
+- alpha-beta inhibitors based on F@H simulations
+- de-novo folding of proteins like ACBP, Lambda Repressor, NTL-9
+- Large amount of data required development of automated and statistical methods
+- importance of beta-like unfolded states
+- hub structure of protein folding kinetics
+
+- DE Shaw Research
+- flourescence resonance energy transfer
+- affinity chromatography
+- immunoprecipitation
+
+- glutathione S-tranferase
+- gene activator proteins
+
+- phage display
+- surface plasmon resonance
+
+- Mr. Fujino (Lu Xun)
+- Death (Lu Xun)
+- This Too is Life (Lu Xun)
+- Nahan (A Call to Arms or Outcry)
+- Panghuang (Wandering)
+
+- Russo-Japanese War
+- Jean Racine
+- UART
+- Rodney King Riots
+
+- design tradeoffs in CAD
+
+- CD8+ (Killer) T Cells
+- subunit and peptide vaccines
+
+- how do primases work?
+- Simon Peyton Jones (research skills)
+
+- Renin-Angiotensin system
+- regression discontinuity design
+
+- Noisy channel coding theorem
+- Error correcting code
+- Hodgkin-Huxley model
+
+- How to Read a Chest Xray
+    - https://www.youtube.com/watch?v=PDaRNPUNc10
+
+- fs.blog/mental-models/
+- GETCO
+
+- Big bounce
+    - https://en.wikipedia.org/wiki/Big_Bounce
+
+- https://en.wikipedia.org/wiki/May_Fourth_Movement
+- https://plato.stanford.edu/entries/church-turing/
+- https://wellcome.ac.uk/sites/default/files/research-careers-tips-running-research-group-2018-05-17.pdf
+- https://www.immunology.org/public-information/bitesized-immunology/cells/t-follicular-helper-cells
+- https://en.wikipedia.org/wiki/Kenzabur%C5%8D_%C5%8Ce
+
+- https://www.immunology.org/public-information/bitesized-immunology/immune-development/b-cell-activation-and-the-germinal-centre
+
+- https://www.wnycstudios.org/podcasts/radiolab/articles/playing-god
+
+- Atelectasis
+- Hemidiaphragm
+- Pneumothorax (PTX)
+
+- Autophagosome
+- https://en.wikipedia.org/wiki/ISG15
+- https://en.wikipedia.org/wiki/Ubiquitin
+- https://en.wikipedia.org/wiki/Eukaryotic_initiation_factor
+- https://en.wikipedia.org/wiki/Ribosome
+- https://en.wikipedia.org/wiki/Eukaryotic_ribosome_(80S)
+- https://en.wikipedia.org/wiki/Translation_(biology)
+- https://en.wikipedia.org/wiki/Prohibitin
+- https://en.wikipedia.org/wiki/IRF3
+- https://en.wikipedia.org/wiki/Interferon_type_I
+- https://en.wikipedia.org/wiki/Furin
+- https://en.wikipedia.org/wiki/N-linked_glycosylation
+
+## Coronavirus
+- https://zhanglab.ccmb.med.umich.edu/C-I-TASSER/2019-nCov/
+- Complete genome of SARS-CoV-2: https://www.ncbi.nlm.nih.gov/nuccore/MN908947
+- https://www.youtube.com/watch?v=PWzbArPgo-o
+
+- https://spinningup.openai.com/en/latest/spinningup/spinningup.html#learn-by-doing
+
+## D3
+- https://medium.com/@Elijah_Meeks/d3-is-not-a-data-visualization-library-67ba549e8520
+
+## JAX
+- https://jax.readthedocs.io/en/latest/notebooks/How_JAX_primitives_work.html
+
+## Atom Plugin
+- https://github.blog/2016-08-19-building-your-first-atom-plugin/
+
+- What are the current problems with (health) insurance companies? How can we fix it?
+- Need to get the current landscape
+
+
+- https://en.wikipedia.org/wiki/Insulin_degludec
+- https://www.tresibapro.com/considering-tresiba/clinical-study-abstracts.html
+- https://en.wikipedia.org/wiki/Drug-na%C3%AFve
+- https://www.basaglar.com/using-basaglar/how-to-inject
+    - What is a "unit"?
+- https://medlineplus.gov/druginfo/meds/a600027.html
+- https://en.wikipedia.org/wiki/Insulin_degludec
+
+- https://www.youtube.com/watch?time_continue=3&v=PoFDK7Kwx1o
+- protein folding: https://www.youtube.com/watch?v=VUGsZgQaAZs
+
+
+- PyQT: https://www.learnpyqt.com/courses/start/basic-widgets/
+- https://www.learnpyqt.com/courses/graphics-plotting/plotting-pyqtgraph/
+- https://en.wikipedia.org/wiki/Jumpstart_Our_Business_Startups_Act
+- https://en.wikipedia.org/wiki/Protein_domain
+
+- http://www.alexchinco.com/notebook/
+
+- Karl Popper, start with a hypothesis that they try to refute (Zumdahl, Chemical Principles)
+
+--- HOSPITAL INDUSTRY MARKET RESEARCH
+- https://finance.yahoo.com/news/understanding-structure-us-hospital-industry-130048806.html
+- https://www.aha.org/statistics/fast-facts-us-hospitals
+- https://www.statista.com/topics/1074/hospitals/
+- https://www.beckershospitalreview.com/hospital-management-administration/50-things-to-know-about-the-hospital-industry-2017.html
+- https://open.lib.umn.edu/socialproblems/chapter/13-4-problems-of-health-care-in-the-united-states/
+- https://accountablecaredoctors.org/american-healthcare-whats-the-problem/
+- https://saylordotorg.github.io/text_social-problems-continuity-and-change/s16-04-problems-of-health-care-in-the.html
+- https://www.vox.com/2014/9/2/6089693/health-care-facts-whats-wrong-american-insurance
+- https://www.theatlantic.com/health/archive/2018/06/the-3-reasons-the-us-healthcare-system-is-the-worst/563519/
+
+--- AMERICA CORRPUTION PERCEPTION INDEX
+- https://www.transparency.org/cpi2019
+- https://www.nber.org/papers/w10821.pdf
+- https://www.theatlantic.com/magazine/archive/2015/09/how-wall-streets-bankers-stayed-out-of-jail/399368/
+- https://www.nytimes.com/interactive/2018/10/02/us/politics/donald-trump-tax-schemes-fred-trump.html
+- https://www.commondreams.org/views/2019/01/31/top-10-ways-united-states-most-corrupt-country-world
+
+--- EDUCATION MARKET RESEARCH
+- OpenLearning
+- Canvas by Instructure
+- FutureLearn
+
