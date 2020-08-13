@@ -10,3 +10,4 @@
 - https://www.thebalance.com/tax-loopholes-you-can-take-advantage-of-4157568
 
 * [Startup pricing](https://www.youtube.com/watch?v=jwXlo9gy_k4)
+* [Building product](https://www.youtube.com/watch?v=C27RVio2rOs)
