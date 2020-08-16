@@ -5,6 +5,7 @@
 * **Bits or pieces?** ([http](https://blog.gardeviance.org))
 * **Steve Blank.** Posts on innovation, entrepreneurship, and buisiness. ([http](https://steveblank.com/))
 * **Sebastian Ruder.** ([http](https://ruder.io/))
+* **Ethan Zuckerman.** ([http](http://www.ethanzuckerman.com/blog/about-me/))
 
 ## Education
 * [The Chronicle of Higher Education](https://www.chronicle.com/)
