@@ -11,3 +11,9 @@
 
 * [Startup pricing](https://www.youtube.com/watch?v=jwXlo9gy_k4)
 * [Building product](https://www.youtube.com/watch?v=C27RVio2rOs)
+
+* [White blood cells](https://en.wikipedia.org/wiki/White_blood_cell)
+* [ChemFig](http://tug.ctan.org/macros/generic/chemfig/chemfig-en.pdf)
+* [LeAP tutorial](https://ambermd.org/tutorials/pengfei/index.php)
+* [Amino Acids](https://rb.gy/fa5hvl)
+* [Isoelectric point](https://en.wikipedia.org/wiki/Isoelectric_point)
