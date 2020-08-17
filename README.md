@@ -1,4 +1,4 @@
-# Awesome Reading: Places with high quality reading content.
+# Archives: reading material.
 
 ## Blogs
 * **Jessy Lin.** ([http](https://jessylin.com))
